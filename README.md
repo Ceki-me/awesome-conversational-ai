@@ -44,6 +44,7 @@
 
 ## Platforms
 
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agent browsing and interaction. MCP-native, DevTools protocol, SDKs for Python/JS/LangChain/CrewAI.
 - [Amazon Lex](https://aws.amazon.com/lex/) - An AWS service for building conversational interfaces for applications using voice and text.
 - [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 - [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
